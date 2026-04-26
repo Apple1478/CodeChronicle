@@ -2,7 +2,6 @@
 
 > **Trace the complete history of any code snippet — WHO wrote it, WHEN, WHY, and how it evolved.**
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue)](https://github.com/Pranav140/CodeChronicle/releases)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.80%2B-007ACC)](https://code.visualstudio.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
