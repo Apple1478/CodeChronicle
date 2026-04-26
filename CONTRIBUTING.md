@@ -19,7 +19,7 @@ out/                — compiled JavaScript (generated, do not edit)
 ## Setting up locally
 
 ```bash
-git clone https://github.com/Pranav140/CodeChronicle.git
+git clone https://github.com/Apple1478/CodeChronicle.git
 cd CodeChronicle
 npm install
 npm run watch        # auto-compiles TypeScript on save
