@@ -27,7 +27,7 @@ Select any lines of code, right-click, and instantly see:
 
 ### Option A — Download release (recommended)
 
-1. Go to [Releases](https://github.com/Pranav140/CodeChronicle/releases)
+1. Go to Releases
 2. Download `code-chronicle-0.0.1.zip` and extract it — you'll get `code-chronicle-0.0.1.vsix`
 3. In VS Code: **Extensions panel** → `···` menu → **Install from VSIX...** → select the file
 4. Reload VS Code when prompted
