@@ -41,7 +41,7 @@ code --install-extension code-chronicle-0.0.1.vsix
 ### Option C — Build from source
 
 ```bash
-git clone https://github.com/Pranav140/CodeChronicle.git
+git clone https://github.com/Apple1478/CodeChronicle.git
 cd CodeChronicle
 npm install
 npm run compile
